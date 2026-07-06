@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/harish-ai-engineer">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=8E2DE2&center=true&vCenter=true&width=560&lines=Building+Agentic+AI+Systems+%F0%9F%A4%96;RAG+%E2%80%A2+Multi-Agent+%E2%80%A2+MCP+%E2%80%A2+Tool+Use;Production+LLM+Apps+with+Evals+%26+Tracing;Developer+Tooling+that+does+the+boring+parts;Docker+%E2%80%A2+Terraform+%E2%80%A2+CI%2FCD+%E2%9A%99%EF%B8%8F" alt="Typing animation">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=8E2DE2&center=true&vCenter=true&width=560&lines=Building+Agentic+AI+Systems+%F0%9F%A4%96;LangGraph+%E2%80%A2+CrewAI+%E2%80%A2+Claude+%26+OpenAI+Agents;RAG+%E2%80%A2+Vector+DBs+%E2%80%A2+MCP+%E2%80%A2+Tool+Use;LLMs+%26+VLMs+in+Production+with+Evals;Developer+Tooling+that+does+the+boring+parts" alt="Typing animation">
   </a>
 </p>
 
@@ -23,8 +23,9 @@
 
 ## 🚀 What I work on
 
-- 🤖 **Agentic AI** — multi-agent orchestration, tool use, MCP, persistent memory, sub-agents
-- 📚 **Retrieval-Augmented Generation** — production RAG APIs, document parsing with provenance, evaluations & observability
+- 🤖 **Agentic AI** — multi-agent orchestration with LangGraph, CrewAI, OpenAI Agents SDK & Claude Agent SDK; tool use, MCP, persistent memory, sub-agents
+- 📚 **Retrieval-Augmented Generation** — production RAG APIs, vector databases, document parsing with provenance, evaluations & observability
+- 🧠 **LLMs & VLMs** — prompt engineering, transformers, fine-tuning workflows, local inference with Ollama
 - 🛠️ **Developer tooling** — CLIs that clean up, audit, and automate the boring parts of a dev machine
 - ⚙️ **DevOps & infra** — Docker, Terraform, Jenkins, CI/CD pipelines
 
@@ -41,6 +42,44 @@
 | [**AI-Doctor-Assistant**](https://github.com/harish-ai-engineer/AI-Doctor-Assistant) | FastAPI + React app demonstrating prompt management, tracing, evals, A/B testing, RAG & cost tracking in production |
 | [**repodiff-auditor**](https://github.com/harish-ai-engineer/repodiff-auditor) | Local-first web app for comparing Git repos & versions with evidence-based Q&A and downloadable reports |
 
+## 🤖 AI / LLM engineering
+
+**Agent frameworks & SDKs**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
+  <img src="https://img.shields.io/badge/CrewAI-FF5A50?style=for-the-badge&logo=crewai&logoColor=white" alt="CrewAI">
+  <img src="https://img.shields.io/badge/OpenAI%20Agents%20SDK-412991?style=for-the-badge" alt="OpenAI Agents SDK">
+  <img src="https://img.shields.io/badge/Claude%20Agent%20SDK-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Agent SDK">
+  <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic">
+  <img src="https://img.shields.io/badge/Pydantic%20AI-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic AI">
+  <img src="https://img.shields.io/badge/MCP-8E2DE2?style=for-the-badge" alt="Model Context Protocol">
+</p>
+
+**Models & inference**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LLMs-6A11CB?style=for-the-badge" alt="LLMs">
+  <img src="https://img.shields.io/badge/VLMs-4A00E0?style=for-the-badge" alt="VLMs">
+  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face Transformers">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge" alt="OpenAI">
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama">
+</p>
+
+**Vector databases & retrieval**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge" alt="ChromaDB">
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge" alt="FAISS">
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant">
+  <img src="https://img.shields.io/badge/Pinecone-1C1C1C?style=for-the-badge" alt="Pinecone">
+  <img src="https://img.shields.io/badge/Weaviate-00A98F?style=for-the-badge" alt="Weaviate">
+  <img src="https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge&logo=milvus&logoColor=white" alt="Milvus">
+  <img src="https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgvector">
+</p>
+
 ## 🧰 Tech stack
 
 <p align="center">
@@ -52,12 +91,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama">
-  <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge" alt="ChromaDB">
-  <img src="https://img.shields.io/badge/MCP-8E2DE2?style=for-the-badge" alt="Model Context Protocol">
-  <br>
   <img src="https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI">
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
@@ -65,17 +98,16 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
 </p>
 
-## 🏆 GitHub trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harish-ai-engineer&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="GitHub trophies" width="95%">
-</p>
-
 ## 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harish-ai-engineer&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harish-ai-engineer&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" height="165">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harish-ai-engineer&theme=tokyonight" alt="Profile details" width="95%">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harish-ai-engineer&theme=tokyonight" alt="Repos per language" width="31%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harish-ai-engineer&theme=tokyonight" alt="Most commit language" width="31%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harish-ai-engineer&theme=tokyonight&utcOffset=5.5" alt="Productive time" width="31%">
 </p>
 
 <p align="center">
