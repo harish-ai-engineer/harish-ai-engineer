@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/harish-ai-engineer">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=8E2DE2&center=true&vCenter=true&width=560&lines=Building+Agentic+AI+Systems+%F0%9F%A4%96;LangGraph+%E2%80%A2+CrewAI+%E2%80%A2+Claude+%26+OpenAI+Agents;RAG+%E2%80%A2+Vector+DBs+%E2%80%A2+MCP+%E2%80%A2+Tool+Use;LLMs+%26+VLMs+in+Production+with+Evals;Developer+Tools+that+automate+the+boring+stuff" alt="Typing animation">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=8E2DE2&center=true&vCenter=true&width=700&height=60&lines=Building+Agentic+AI+Systems+%F0%9F%A4%96;LangGraph+%E2%80%A2+CrewAI+%E2%80%A2+Claude+%26+OpenAI+Agents;RAG+%E2%80%A2+Vector+DBs+%E2%80%A2+MCP+%E2%80%A2+Tool+Use;LLMs+%26+VLMs+in+Production+with+Evals;Dev+Tools+that+automate+the+boring+stuff" alt="Typing animation">
   </a>
 </p>
 
