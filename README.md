@@ -1,7 +1,11 @@
-<h1 align="center">Hi, I'm Harish 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=Hi%2C%20I'm%20Harish%20%F0%9F%91%8B&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%40%20Aanseaa%20%C2%B7%20Bengaluru%2C%20India&descSize=18&descAlignY=58" alt="banner" width="100%">
+</p>
 
 <p align="center">
-  <b>AI Engineer @ Aanseaa</b> · Bengaluru, India
+  <a href="https://github.com/harish-ai-engineer">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8E2DE2&center=true&vCenter=true&width=560&lines=Building+Agentic+AI+Systems+%F0%9F%A4%96;RAG+%E2%80%A2+Multi-Agent+%E2%80%A2+MCP+%E2%80%A2+Tool+Use;Production+LLM+Apps+with+Evals+%26+Tracing;Developer+Tooling+that+does+the+boring+parts" alt="Typing animation">
+  </a>
 </p>
 
 <p align="center">
@@ -59,8 +63,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harish-ai-engineer&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" height="165">
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harish-ai-engineer&theme=tokyo-night&hide_border=true&area=true&line=8E2DE2&point=4A00E0" alt="Contribution activity graph" width="95%">
+</p>
+
 ---
 
 <p align="center">
   💬 Open to collaborating on agentic AI, RAG systems, and developer tooling — reach me at <a href="mailto:harish12.21.04@gmail.com">harish12.21.04@gmail.com</a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer" alt="footer wave" width="100%">
 </p>
