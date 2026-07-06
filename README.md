@@ -105,9 +105,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harish-ai-engineer&theme=tokyonight" alt="Repos per language" width="31%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harish-ai-engineer&theme=tokyonight" alt="Most commit language" width="31%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harish-ai-engineer&theme=tokyonight&utcOffset=5.5" alt="Productive time" width="31%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harish-ai-engineer&theme=tokyonight" alt="Repos per language" width="47%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harish-ai-engineer&theme=tokyonight" alt="Most commit language" width="47%">
 </p>
 
 <p align="center">
@@ -116,16 +115,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=harish-ai-engineer&theme=tokyo-night&hide_border=true&area=true&line=8E2DE2&point=4A00E0" alt="Contribution activity graph" width="95%">
-</p>
-
-## 🐍 Contribution snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harish-ai-engineer/harish-ai-engineer/output/github-snake.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harish-ai-engineer/harish-ai-engineer/output/github-snake-light.svg">
-    <img src="https://raw.githubusercontent.com/harish-ai-engineer/harish-ai-engineer/output/github-snake.svg" alt="Snake eating my contributions" width="95%">
-  </picture>
 </p>
 
 ---
